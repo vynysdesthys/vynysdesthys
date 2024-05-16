@@ -9,3 +9,5 @@ Eu sou o Mayllon Andrade, sou um Programador Front End, atualmente estou criando
 <br>
 
 [![ Mayllon Status  ](https://github-readme-stats.vercel.app/api?username=vynysdesthys)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynysdesthys)](https://github.com/anuraghazra/github-readme-stats)
